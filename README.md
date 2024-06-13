@@ -1,7 +1,7 @@
 ### text-entity-extractor
 
 # Overview
-This project uses the language model API to identify and extract names, dates, and locations from text, functioning similarly to a named entity recognition (NER).
+This project uses the [Awan LLM](https://www.awanllm.com/) language model API to identify and extract names, dates, and locations from text, functioning similarly to a named entity recognition (NER).
 
 # Usage
 - Input Text: Provide the text input from which entities need to be extracted.
