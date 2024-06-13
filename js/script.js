@@ -1,12 +1,10 @@
-import config from './config.js';
-
 document.getElementById('textForm').addEventListener('submit', function(event) {
     event.preventDefault();
     
     const systemMessage = document.getElementById('systemMessage').value;
     const userMessage = document.getElementById('userText').value;
     const API_URL = 'https://api.awanllm.com/v1/chat/completions';
-    const AWANLLM_API_KEY = config.apiKey;
+    const AWANLLM_API_KEY = "YOUR_API_KEY";
     const prompt = "Extract all personal information such as names, addresses, phone numbers, emails, and other identifiers from the following text: " + userMessage;
 
     const data = {
