@@ -4,8 +4,8 @@
 This project uses the language model API to identify and extract names, dates, and locations from text, functioning similarly to a named entity recognition (NER).
 
 # Usage
-Input Text: Provide the text input from which entities need to be extracted.
-Output: Receive extracted entities in a structured format for further analysis or processing.
+- Input Text: Provide the text input from which entities need to be extracted.
+- Output: Receive extracted entities in a structured format for further analysis or processing.
 
 # Installation
 To get started with Text Entity Extractor:
