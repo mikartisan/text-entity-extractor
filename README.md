@@ -13,7 +13,7 @@ This project uses the [Awan LLM](https://www.awanllm.com/) language model (Awanl
 To get started with Text Entity Extractor:
 - Clone the repository: git clone https://github.com/mikartisan/text-entity-extractor.git
 - Install dependencies: npm install
-- Configure API settings in config.js.
+- Get and Configure your Free/Paid API from [Awan LLM](https://www.awanllm.com/).
   
 # Technologies Used
 - Language Model: [Awan LLM](https://www.awanllm.com/) for entity recognition.
