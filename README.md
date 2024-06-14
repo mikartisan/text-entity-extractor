@@ -16,7 +16,7 @@ To get started with Text Entity Extractor:
 - Get and Configure your Free/Paid API from [Awan LLM](https://www.awanllm.com/).
   
 # Technologies Used
-- Language Model: [Awan LLM](https://www.awanllm.com/) for entity recognition.
+- Language Model: [Awanllm-Llama-3-8B-Dolfin](https://www.awanllm.com/) for entity recognition.
 - HTML/Tailwind/JavaScript: Frontend components for user interaction and interface design.
 - GitHub: Hosts the repository and manages version control.
   
