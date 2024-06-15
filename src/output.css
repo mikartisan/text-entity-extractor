@@ -1211,10 +1211,6 @@ input:checked + .toggle-bg {
   width: 100%;
 }
 
-.w-\[50\%\] {
-  width: 50%;
-}
-
 .max-w-lg {
   max-width: 32rem;
 }
